@@ -1,7 +1,7 @@
 # NoughtsNCrosses ZUMO Project SHU
 Zumo Noughts and Crosses Game With Arduino and Pixy Camera
 
-# Video
+# Video:
 https://youtube.com/shorts/xfnPBtnLqRI
 
 # Installation:
